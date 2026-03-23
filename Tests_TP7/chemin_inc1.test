@@ -1,0 +1,9 @@
+Tests_TP7/terrain_11x9.txt
+Tests_TP7/simple_1.prg
+9
+P
+9 4
+E
+
+
+/* (résultat attendu : erreur car le robot ne sera pas tombé dans l'eau.) */

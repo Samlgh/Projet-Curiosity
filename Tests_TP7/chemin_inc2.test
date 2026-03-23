@@ -1,0 +1,9 @@
+Tests_TP7/terrain_11x9.txt
+Tests_TP7/simple_1.prg
+9
+O
+9 4
+E
+
+
+/* (résultat attendu : erreur car le robot ne se sera pas écrasé sur un rocher.) */

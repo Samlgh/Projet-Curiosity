@@ -1,0 +1,8 @@
+
+Tests_TP7/simple_1.prg
+9
+N
+9 4
+E
+
+/* (résultat attendu : erreur car le terrain ne peut pas être ouvert.) */

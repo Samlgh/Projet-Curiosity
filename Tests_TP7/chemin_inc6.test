@@ -1,0 +1,8 @@
+Tests_TP7/terrain_11x9.txt
+
+9
+N
+9 4
+E
+
+/* (résultat attendu : erreur car le fichier programme ne peut pas être ouvert.) */
